@@ -3,7 +3,7 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 **Link to project:** https://colorful-calc.netlify.app
 
-![Project Tile](https://danaarroway.com/images/project-tiles/javascript%20calculator.png)
+![Project Tile](https://danaarroway.com/images/project-tiles/javascript%20calculator.png =200x)
 
 ![Demo](https://colorful-calc.netlify.app/javascript-calc.gif)
 
